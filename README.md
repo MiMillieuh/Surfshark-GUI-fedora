@@ -5,7 +5,7 @@ These packages might also work on OpenSuse CentOS and other RPM based distro
 
 Original files from [here](https://ocean.surfshark.com/debian/pool/main/s/)
 
-NotRPM repo : `sudo dnf install surfshark*`
+[NotRPM repo](https://github.com/MiMillieuh/NotRPM-Repo) : `sudo dnf install surfshark*`
 
 Simple rpm packages to install : [Release](https://github.com/MiMillieuh/Surfshark-GUI-fedora/releases)
 
